@@ -3,8 +3,9 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 body {
-  background-color: whitesmoke;
-  color: #17421d;
+  background-image: url("/static/img/bg.jpg");
+  background-size: cover;
+  color: #0b1b50;
 }
 .container {
   width: 1080px;
@@ -12,7 +13,7 @@ body {
   margin-right: auto;
   border-width: 1px 1px 1px 1px;
   border-style: solid;
-  box-shadow: 15px 15px 8px gray;
+  box-shadow: 15px 15px 8px rgb(168, 79, 228);
 }
 
 .banner {
@@ -21,11 +22,12 @@ body {
   height: 250px;
   text-align: center;
   font-size: 60px;
+  font-family: Lucida Handwriting;
   background-image: url("/static/img/banner1.jpg");
   background-size: 100% 100%;
   margin: 0px 0px 0px 0px;
   padding-top: 150px;
-  color: #16d1ae;
+  color: #040566;
 }
 
 .menu {
@@ -33,7 +35,7 @@ body {
   width: 100%;
   height: 50px;
   font-size: larger;
-  background-color: #5bb045;
+  background-color: #5882dd;
   text-align: center;
   padding-top: 15px;
   margin: 0px 0px 0px 0px;
@@ -49,18 +51,18 @@ body {
   display: inline-block;
   margin-left: 10px;
   margin-right: 10px;
-  color: #16d1ae;
+  color: #020713;
 }
 
 .menuitem a {
   text-decoration: none;
-  color: #9c1018;
+  color: #12204e;
 }
 
 .content {
   display: block;
   width: 100%;
-  background-color: #cffffd;
+  background-color: #b383e9;
   min-height: 500px;
   margin: 0px 0px 0px 0px;
   border-width: 1px;
@@ -73,6 +75,7 @@ body {
 }
 .homecontent h1 {
   text-align: left;
+  font-family: Lucida Console;
 }
 .homecontent img {
   float: right;
@@ -83,6 +86,8 @@ body {
 
 .contenttext {
   text-align: justify;
+  font-family: Lucida Handwriting;
+  font-size: medium;
 }
 
 .productcontent {
@@ -100,26 +105,26 @@ body {
 
 .productitem {
   display: inline-block;
-  width: 30%;
-  height: 250px;
+  width: 20%;
+  height: 170px;
   text-align: center;
 }
 
 .productitem img {
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   display: block;
 }
 .productitem .itemimage {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 100px;
+  width: 120px;
   margin-bottom: 5px;
 }
 
 .productitem .itemname {
-  display: block;
+  font-size: medium;
 }
 .productitem .itemprice {
   display: block;
@@ -129,9 +134,10 @@ body {
   display: block;
   width: 100%;
   height: 40px;
-  background-color: #5bb045;
+  background-color: #5882dd;
   text-align: center;
   padding-top: 10px;
   margin: 0px 0px 0px 0px;
   color: #9c1018;
 }
+
