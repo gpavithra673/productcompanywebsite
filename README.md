@@ -35,6 +35,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+~~~
 HOME PAGE:
 <!DOCTYPE html>
 <html lang="en">
@@ -327,6 +328,7 @@ CONTACT US:
     </div>
   </body>
 </html>
+~~~
 
 ## OUTPUT:
 
