@@ -13,7 +13,7 @@ body {
   margin-right: auto;
   border-width: 1px 1px 1px 1px;
   border-style: solid;
-  box-shadow: 15px 15px 8px rgb(168, 79, 228);
+  box-shadow: 15px 15px 8px rgb(37, 240, 213);
 }
 
 .banner {
@@ -23,11 +23,11 @@ body {
   text-align: center;
   font-size: 60px;
   font-family: Lucida Handwriting;
-  background-image: url("/static/img/banner1.jpg");
+  background-image: url("/static/img/ban1.jpg");
   background-size: 100% 100%;
   margin: 0px 0px 0px 0px;
   padding-top: 150px;
-  color: #040566;
+  color: #1a039b;
 }
 
 .menu {
@@ -35,7 +35,7 @@ body {
   width: 100%;
   height: 50px;
   font-size: larger;
-  background-color: #5882dd;
+  background-color: #17e8f7;
   text-align: center;
   padding-top: 15px;
   margin: 0px 0px 0px 0px;
@@ -62,7 +62,7 @@ body {
 .content {
   display: block;
   width: 100%;
-  background-color: #b383e9;
+  background-color: #5882dd;
   min-height: 500px;
   margin: 0px 0px 0px 0px;
   border-width: 1px;
@@ -105,21 +105,21 @@ body {
 
 .productitem {
   display: inline-block;
-  width: 20%;
-  height: 170px;
+  width: 30%;
+  height: 250px;
   text-align: center;
 }
 
 .productitem img {
-  width: 150px;
-  height: 150px;
+  width: 100px;
+  height: 100px;
   display: block;
 }
 .productitem .itemimage {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 120px;
+  width: 100px;
   margin-bottom: 5px;
 }
 
@@ -134,7 +134,7 @@ body {
   display: block;
   width: 100%;
   height: 40px;
-  background-color: #5882dd;
+  background-color: #17e8f7;
   text-align: center;
   padding-top: 10px;
   margin: 0px 0px 0px 0px;
