@@ -337,4 +337,4 @@ CONTACT US:
 
 ## Result:
 
-Thus a Website is designed for the software product company and the HTML,CSS code are validated.
+Thus a Website is Designed for the software product company and the HTML,CSS code are validated
