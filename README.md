@@ -327,7 +327,7 @@ CONTACT US:
 
 ### Home Page:
 
-![homepage](homepage1.png)
+![homepage](home.png)
 ### Product:
 ![product](product.png)
 ### People:
